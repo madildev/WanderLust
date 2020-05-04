@@ -1,0 +1,8 @@
+
+KeyName:
+	
+13c16fb318cfeeae7a3fb2a577a31d14
+
+
+
+http://api.openweathermap.org/data/2.5/weather?
