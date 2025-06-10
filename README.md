@@ -12,7 +12,7 @@ This simple web application provides information about the weather and top attra
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/weather-top-attractions.git
+   git clone https://github.com/madildev/wander-lust.git
    ```
 
 2. **Open the Project**
